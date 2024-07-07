@@ -1,0 +1,2 @@
+#!/bin/sh
+cru a node-exporter '* * * * * sh /tmp/mnt/rtrusb/node_exporter/node_exporter_start.sh'
